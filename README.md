@@ -21,11 +21,16 @@ Enter the following shortcuts in a JavaScript file and select the corresponding 
 
 ## Installation
 
+### [express-shortcut](https://marketplace.visualstudio.com/items?itemName=ksaw1228.express-shortcut)
+
+OR
+
 1. Open Visual Studio Code.
 2. Press Ctrl+P (Cmd+P on Mac) and type “ext install your-publisher-name.express-snippets”.
 3. Press Enter to search the extension.
 4. Locate the Express Snippets extension and click the Install button.
 5. Restart Visual Studio Code.
+
 
 ## Support
 
