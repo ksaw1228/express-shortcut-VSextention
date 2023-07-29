@@ -1,0 +1,64 @@
+{
+    "Express:app.use": {
+      "prefix": "au",
+      "body": [
+        "app.use($0);"
+      ],
+      "description": "app.use()"
+    },
+    "Express:app.get": {
+      "prefix": "ag",
+      "body": [
+        "app.get('/', (req, res) => {",
+        "\t$0",
+        "});"
+      ],
+      "description": "app.get() function"
+    },
+    "Express:app.post": {
+      "prefix": "ap",
+      "body": [
+        "app.post('/', (req, res) => {",
+        "\t$0",
+        "});"
+      ],
+      "description": "app.post() function"
+    },
+    "Express:app.delete": {
+      "prefix": "ad",
+      "body": [
+        "app.delet('/', (req, res) => {",
+        "\t$0",
+        "});"
+      ],
+      "description": "app.delete() function"
+    },
+    "Express:router.get": {
+      "prefix": "rg",
+      "body": [
+        "router.get('/', (req, res) => {",
+        "\t$0",
+        "});"
+      ],
+      "description": "router.get() function"
+    },
+    "Express:router.post": {
+      "prefix": "rp",
+      "body": [
+        "router.post('/', (req, res) => {",
+        "\t$0",
+        "});"
+      ],
+      "description": "router.post() function"
+    },
+    "Express:router.delete": {
+      "prefix": "rd",
+      "body": [
+        "router.delet('/', (req, res) => {",
+        "\t$0",
+        "});"
+      ],
+      "description": "router.delete() function"
+    }
+  }
+  
